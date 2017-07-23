@@ -3,7 +3,6 @@ import path from 'path';
 import open from 'open';
 import webpack from 'webpack';
 import webpackConfig from '../webpack.config.dev';
-/* eslint-disable no-console*/
 
 const port = 3000;
 
